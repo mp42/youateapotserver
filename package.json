@@ -1,0 +1,22 @@
+{
+  "name": "youateapotserver",
+  "version": "1.0.0",
+  "description": "Tells you the truth - you are a teapot!",
+  "main": "teapot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mp42/youateapotserver.git"
+  },
+  "author": "mp42",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mp42/youateapotserver/issues"
+  },
+  "homepage": "https://github.com/mp42/youateapotserver#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
